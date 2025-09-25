@@ -1,29 +1,22 @@
-# Counter Button using React Class Component
+# Counter Button using React
 
-This is a simple React project that implements a **counter button** using **React class components**. The app allows the user to increment, decrement, and reset a counter.
+This is a simple **React** project that demonstrates a **counter button** using **class components**. You can increment, decrement, and reset the counter with just a click.
 
----
+## Live Demo
+
+You can view the live application here:  
+[https://SyedHumaira.github.io/Counter-button-using-React-exp2a/](https://SyedHumaira.github.io/Counter-button-using-React-exp2a/)
 
 ## Features
 
-- **Increment** the counter.
-- **Decrement** the counter.
-- **Reset** the counter to zero.
-- Built using **React class components**.
-- Simple and intuitive UI.
-
----
-
-## Preview
-
-![Counter Preview](https://via.placeholder.com/400x200.png?text=Counter+App+Preview)  
-*(Replace this with an actual screenshot if you like)*
-
----
+- Class component implementation.
+- Simple state management using `this.state`.
+- Increment, decrement, and reset functionality.
+- Simple and responsive UI.
+- Easy to extend with additional features.
 
 ## Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/SyedHumaira/Counter-button-using-React-exp2a.git
+   ```bash
+   git clone https://github.com/SyedHumaira/Counter-button-using-React-exp2a.git
